@@ -1,0 +1,18 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{DBMS}]\begingroup Datenbankmanagementsystem\nomeqref {0}
+		\nompageref{2}
+  \item [{DDL}]\begingroup Data Definition Language\nomeqref {0}
+		\nompageref{2}
+  \item [{DML}]\begingroup Data Manipulation Language\nomeqref {0}
+		\nompageref{3}
+  \item [{IBM}]\begingroup International Business Machines\nomeqref {0}
+		\nompageref{2}
+  \item [{PL/SQL}]\begingroup Procedural Language / Structured Query Language\nomeqref {0}
+		\nompageref{3}
+  \item [{SQL}]\begingroup Structured Query Language\nomeqref {0}
+		\nompageref{2}
+
+\end{thenomenclature}
