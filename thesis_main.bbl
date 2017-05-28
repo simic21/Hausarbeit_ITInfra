@@ -19,73 +19,6 @@
 
 \refsection{0}
   \sortlist[entry]{nty/global/}
-    \entry{oracle}{article}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{10}{}{%
-        {{uniquename=0,hash=b7c981df2ed2328f3e9a83a30eea534f}{%
-           family={Alpern},
-           familyi={A\bibinitperiod},
-           given={D.},
-           giveni={D\bibinitperiod}}}%
-        {{uniquename=0,hash=69267060d74b0f03835c884c96e013f5}{%
-           family={Belden},
-           familyi={B\bibinitperiod},
-           given={E.},
-           giveni={E\bibinitperiod}}}%
-        {{uniquename=0,hash=928e108e3ccc23ba8f5498b165973daf}{%
-           family={Agrawal},
-           familyi={A\bibinitperiod},
-           given={S.},
-           giveni={S\bibinitperiod}}}%
-        {{uniquename=0,hash=27ed915084fe35714972bef0c2a3c4a6}{%
-           family={Baer},
-           familyi={B\bibinitperiod},
-           given={H.},
-           giveni={H\bibinitperiod}}}%
-        {{uniquename=0,hash=bd9631ee78a013f5a87298696283f928}{%
-           family={Castledine},
-           familyi={C\bibinitperiod},
-           given={S.},
-           giveni={S\bibinitperiod}}}%
-        {{uniquename=0,hash=1b35b4aa0f1192468b95c778b864c7c7}{%
-           family={Chang},
-           familyi={C\bibinitperiod},
-           given={T.},
-           giveni={T\bibinitperiod}}}%
-        {{uniquename=0,hash=23f87943e6428404211eda05aac29264}{%
-           family={Cheng},
-           familyi={C\bibinitperiod},
-           given={B.},
-           giveni={B\bibinitperiod}}}%
-        {{uniquename=0,hash=d032c12f44c0657b6dfdb2b48872bce8}{%
-           family={Dani},
-           familyi={D\bibinitperiod},
-           given={R.},
-           giveni={R\bibinitperiod}}}%
-        {{uniquename=0,hash=68c530dc3db63e676ff9d8335f66591d}{%
-           family={Decker},
-           familyi={D\bibinitperiod},
-           given={C.\bibnamedelimi Iyer},
-           giveni={C\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
-        {{uniquename=0,hash=acfdfcfe8563c2fd6a3296c363363ad2}{%
-           family={Kruglikov},
-           familyi={K\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{ef2c433c0383a6d498366eba6165bf53}
-      \strng{fullhash}{2a5497d7069606235dd72491ca8d94b5}
-      \strng{authornamehash}{ef2c433c0383a6d498366eba6165bf53}
-      \strng{authorfullhash}{2a5497d7069606235dd72491ca8d94b5}
-      \field{sortinit}{A}
-      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Oracle Database PL/SQL Language Reference, 12c Release 1 (12.1) E17622-22}
-      \field{year}{2016}
-    \endentry
     \entry{MicrosoftArtikel}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=2d9b22be09d068c989031f15cf22f3c7}{%
@@ -98,40 +31,80 @@
       \strng{authorfullhash}{2d9b22be09d068c989031f15cf22f3c7}
       \field{sortinit}{A}
       \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
-      \field{labeldatesource}{url}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{note}{15.05.2017, 19:25}
       \field{title}{Zu Besuch im Smart Workplace, der neuen Arbeitswelt von Microsoft}
-      \field{urlday}{15}
-      \field{urlmonth}{5}
-      \field{urlyear}{2017}
-      \field{urldateera}{ce}
+      \field{year}{2017}
       \verb{url}
       \verb https://www.dearwork.de/single-post/2016/10/21/Zu-Besuch-im-Smart-Workspace-von-Microsoft
       \endverb
     \endentry
-    \entry{OracleCorp}{online}{}
+    \entry{efm}{online}{}
       \name{author}{1}{}{%
-        {{uniquename=0,hash=b75ccc255290599cf97089f7a7c718fa}{%
-           family={{finanzen.net GmbH}},
-           familyi={f\bibinitperiod}}}%
+        {{uniquename=0,hash=3780742a9a00c07103f56689fb06cad6}{%
+           family={{eFM S.p.A.}},
+           familyi={e\bibinitperiod}}}%
       }
-      \strng{namehash}{b75ccc255290599cf97089f7a7c718fa}
-      \strng{fullhash}{b75ccc255290599cf97089f7a7c718fa}
-      \strng{authornamehash}{b75ccc255290599cf97089f7a7c718fa}
-      \strng{authorfullhash}{b75ccc255290599cf97089f7a7c718fa}
-      \field{sortinit}{f}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{labeldatesource}{url}
+      \strng{namehash}{3780742a9a00c07103f56689fb06cad6}
+      \strng{fullhash}{3780742a9a00c07103f56689fb06cad6}
+      \strng{authornamehash}{3780742a9a00c07103f56689fb06cad6}
+      \strng{authorfullhash}{3780742a9a00c07103f56689fb06cad6}
+      \field{sortinit}{e}
+      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Oracle Aktie}
-      \field{urlday}{6}
-      \field{urlmonth}{1}
-      \field{urlyear}{2017}
-      \field{urldateera}{ce}
+      \field{note}{28.05.2017, 19:41}
+      \field{title}{4 levers for a smart workplace}
+      \field{year}{2017}
       \verb{url}
-      \verb http://www.finanzen.net/aktien/Oracle-Aktie
+      \verb http://www.efmnet.it/index.php/news/il-56-delle-aziende-adottano-lo-smart-working-per-incrementare-la-produttivita/?lang=en
+      \endverb
+    \endentry
+    \entry{iotagenda}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=de68486f0819406cb7f0a1a64e57aa9e}{%
+           family={{Kaynam Hedayat}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{de68486f0819406cb7f0a1a64e57aa9e}
+      \strng{fullhash}{de68486f0819406cb7f0a1a64e57aa9e}
+      \strng{authornamehash}{de68486f0819406cb7f0a1a64e57aa9e}
+      \strng{authorfullhash}{de68486f0819406cb7f0a1a64e57aa9e}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{28.05.2017, 18:23}
+      \field{title}{The promise of the smart workplace and why it's ready to deliver}
+      \field{year}{2016}
+      \verb{url}
+      \verb http://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/The-promise-of-the-smart-workplace-and-why-its-ready-to-deliver
+      \endverb
+    \endentry
+    \entry{nextchange}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9f746f036104955c2c21fd26ea83dbb6}{%
+           family={{nextchange Development UG}},
+           familyi={n\bibinitperiod}}}%
+      }
+      \strng{namehash}{9f746f036104955c2c21fd26ea83dbb6}
+      \strng{fullhash}{9f746f036104955c2c21fd26ea83dbb6}
+      \strng{authornamehash}{9f746f036104955c2c21fd26ea83dbb6}
+      \strng{authorfullhash}{9f746f036104955c2c21fd26ea83dbb6}
+      \field{sortinit}{n}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{28.05.2017, 18:50}
+      \field{title}{Vortrag: Smart Workplace im Unternehmen der Zukunft – Arbeitswelt 4.0}
+      \field{year}{2016}
+      \verb{url}
+      \verb http://www.next-change.com/nextchange-wissen/item/smart-workplace-im-unternehmen-der-zukunft-%5C%E2%5C%80%5C%93-arbeitswelt-4-0
       \endverb
     \endentry
     \entry{OlearySteele}{book}{}
@@ -162,39 +135,6 @@
       \field{year}{2012}
       \field{pages}{485\bibrangedash 533}
       \range{pages}{49}
-    \endentry
-    \entry{saake2011datenbanken}{book}{}
-      \name{author}{3}{}{%
-        {{uniquename=0,hash=2a5ae6c3a7deb62e4508c393839b89cc}{%
-           family={Saake},
-           familyi={S\bibinitperiod},
-           given={Gunter},
-           giveni={G\bibinitperiod}}}%
-        {{uniquename=0,hash=8db2abd6eb5de20da108c145f2c2019f}{%
-           family={Sattler},
-           familyi={S\bibinitperiod},
-           given={Kai-Uwe},
-           giveni={K\bibinithyphendelim U\bibinitperiod}}}%
-        {{uniquename=0,hash=94f08f060565b9a18bab52b231e0abc8}{%
-           family={Heuer},
-           familyi={H\bibinitperiod},
-           given={Andreas},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {mitp Verlags GmbH \& Co. KG}%
-      }
-      \strng{namehash}{1149e03c752502b8a3ea96739c036866}
-      \strng{fullhash}{7c4d1e855c060be243d5872b45fdf43e}
-      \strng{authornamehash}{1149e03c752502b8a3ea96739c036866}
-      \strng{authorfullhash}{7c4d1e855c060be243d5872b45fdf43e}
-      \field{sortinit}{S}
-      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Datenbanken: Implementierungstechniken}
-      \field{year}{2011}
     \endentry
     \entry{samu2002database}{patent}{}
       \name{author}{3}{}{%
@@ -272,32 +212,11 @@
       \field{pages}{921\bibrangedash 967}
       \range{pages}{47}
     \endentry
-    \entry{UniversityofDelaware}{online}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=ce29d16191a3f52292a2caa7ba0b2676}{%
-           family={{University of Delaware}},
-           familyi={U\bibinitperiod}}}%
-      }
-      \strng{namehash}{ce29d16191a3f52292a2caa7ba0b2676}
-      \strng{fullhash}{ce29d16191a3f52292a2caa7ba0b2676}
-      \strng{authornamehash}{ce29d16191a3f52292a2caa7ba0b2676}
-      \strng{authorfullhash}{ce29d16191a3f52292a2caa7ba0b2676}
-      \field{sortinit}{U}
-      \field{sortinithash}{1554584e7f69d2b4fe0a645e73d50194}
-      \field{labeldatesource}{url}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Introduction to Structured Query Language (SQL) – Part 1.}
-      \field{urlday}{5}
-      \field{urlmonth}{1}
-      \field{urlyear}{2017}
-      \field{urldateera}{ce}
-      \verb{url}
-      \verb http://www1.udel.edu/evelyn/SQL-Class1/SQLclass1All.html
-      \endverb
-    \endentry
   \endsortlist
+  \missing{UniversityofDelaware}
+  \missing{oracle}
   \missing{BusinessDictionary}
+  \missing{OracleCorp}
 \endrefsection
 \endinput
 

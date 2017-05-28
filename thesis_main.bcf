@@ -2145,18 +2145,15 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1">MicrosoftArtikel</bcf:citekey>
-    <bcf:citekey order="2">samu2002database</bcf:citekey>
-    <bcf:citekey order="3">saake2011datenbanken</bcf:citekey>
-    <bcf:citekey order="4">UniversityofDelaware</bcf:citekey>
-    <bcf:citekey order="5">BusinessDictionary</bcf:citekey>
-    <bcf:citekey order="6">OlearySteele</bcf:citekey>
-    <bcf:citekey order="7">UniversityofDelaware</bcf:citekey>
+    <bcf:citekey order="2">nextchange</bcf:citekey>
+    <bcf:citekey order="3">iotagenda</bcf:citekey>
+    <bcf:citekey order="4">efm</bcf:citekey>
+    <bcf:citekey order="5">efm</bcf:citekey>
+    <bcf:citekey order="6">efm</bcf:citekey>
+    <bcf:citekey order="7">shao2006triggers</bcf:citekey>
     <bcf:citekey order="8">oracle</bcf:citekey>
-    <bcf:citekey order="9">OracleCorp</bcf:citekey>
-    <bcf:citekey order="10">shao2006triggers</bcf:citekey>
-    <bcf:citekey order="11">oracle</bcf:citekey>
-    <bcf:citekey order="12">samu2002database</bcf:citekey>
-    <bcf:citekey order="13">oracle</bcf:citekey>
+    <bcf:citekey order="9">samu2002database</bcf:citekey>
+    <bcf:citekey order="10">oracle</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nty/global/" type="entry" sortscheme="nty" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>
