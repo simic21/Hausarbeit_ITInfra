@@ -19,28 +19,6 @@
 
 \refsection{0}
   \sortlist[entry]{nty/global/}
-    \entry{MicrosoftArtikel}{online}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=2d9b22be09d068c989031f15cf22f3c7}{%
-           family={{Anna Süster Volquardsen}},
-           familyi={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{2d9b22be09d068c989031f15cf22f3c7}
-      \strng{fullhash}{2d9b22be09d068c989031f15cf22f3c7}
-      \strng{authornamehash}{2d9b22be09d068c989031f15cf22f3c7}
-      \strng{authorfullhash}{2d9b22be09d068c989031f15cf22f3c7}
-      \field{sortinit}{A}
-      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{15.05.2017, 19:25}
-      \field{title}{Zu Besuch im Smart Workplace, der neuen Arbeitswelt von Microsoft}
-      \field{year}{2017}
-      \verb{url}
-      \verb https://www.dearwork.de/single-post/2016/10/21/Zu-Besuch-im-Smart-Workspace-von-Microsoft
-      \endverb
-    \endentry
     \entry{efm}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=3780742a9a00c07103f56689fb06cad6}{%
@@ -63,18 +41,42 @@
       \verb http://www.efmnet.it/index.php/news/il-56-delle-aziende-adottano-lo-smart-working-per-incrementare-la-produttivita/?lang=en
       \endverb
     \endentry
+    \entry{SCmagazineUK}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=77fce8ea03aa44f64c184298ec218688}{%
+           family={Furness},
+           familyi={F\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{77fce8ea03aa44f64c184298ec218688}
+      \strng{fullhash}{77fce8ea03aa44f64c184298ec218688}
+      \strng{authornamehash}{77fce8ea03aa44f64c184298ec218688}
+      \strng{authorfullhash}{77fce8ea03aa44f64c184298ec218688}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{30.05.2017, 21:59}
+      \field{title}{The four cornerstones of a smart workplace}
+      \field{year}{2016}
+      \verb{url}
+      \verb https://www.scmagazineuk.com/the-four-cornerstones-of-a-smart-workplace/article/531507/
+      \endverb
+    \endentry
     \entry{iotagenda}{online}{}
       \name{author}{1}{}{%
-        {{uniquename=0,hash=de68486f0819406cb7f0a1a64e57aa9e}{%
-           family={{Kaynam Hedayat}},
-           familyi={K\bibinitperiod}}}%
+        {{uniquename=0,hash=a98ff6a81f16a7ca5d039e5eb314ad18}{%
+           family={{Hedayat, Kaynam}},
+           familyi={H\bibinitperiod}}}%
       }
-      \strng{namehash}{de68486f0819406cb7f0a1a64e57aa9e}
-      \strng{fullhash}{de68486f0819406cb7f0a1a64e57aa9e}
-      \strng{authornamehash}{de68486f0819406cb7f0a1a64e57aa9e}
-      \strng{authorfullhash}{de68486f0819406cb7f0a1a64e57aa9e}
-      \field{sortinit}{K}
-      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \strng{namehash}{a98ff6a81f16a7ca5d039e5eb314ad18}
+      \strng{fullhash}{a98ff6a81f16a7ca5d039e5eb314ad18}
+      \strng{authornamehash}{a98ff6a81f16a7ca5d039e5eb314ad18}
+      \strng{authorfullhash}{a98ff6a81f16a7ca5d039e5eb314ad18}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -83,6 +85,59 @@
       \field{year}{2016}
       \verb{url}
       \verb http://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/The-promise-of-the-smart-workplace-and-why-its-ready-to-deliver
+      \endverb
+    \endentry
+    \entry{leseprobe}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d8bf9b9b694aaef6f0f24dd3ffcdd390}{%
+           family={Mikulecky},
+           familyi={M\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{d8bf9b9b694aaef6f0f24dd3ffcdd390}
+      \strng{fullhash}{d8bf9b9b694aaef6f0f24dd3ffcdd390}
+      \strng{authornamehash}{d8bf9b9b694aaef6f0f24dd3ffcdd390}
+      \strng{authorfullhash}{d8bf9b9b694aaef6f0f24dd3ffcdd390}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Lecture Notes in Computer Science}
+      \field{title}{User Adaptivity in Smart Workplaces. In: Pan JS., Chen SM., Nguyen N.T. (eds) Intelligent Information and Database Systems. ACIIDS 2012}
+      \field{year}{2012}
+      \field{pages}{401\bibrangedash 410}
+      \range{pages}{10}
+    \endentry
+    \entry{mittelstand}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=fd44d81857779a9f9d8492f03c001f35}{%
+           family={Neumann},
+           familyi={N\bibinitperiod},
+           given={Detlev},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{fd44d81857779a9f9d8492f03c001f35}
+      \strng{fullhash}{fd44d81857779a9f9d8492f03c001f35}
+      \strng{authornamehash}{fd44d81857779a9f9d8492f03c001f35}
+      \strng{authorfullhash}{fd44d81857779a9f9d8492f03c001f35}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{31.05.2017, 20:36}
+      \field{title}{Internet der Dinge: Eine kurze Definition mit 4 Beispielen}
+      \field{year}{2016}
+      \verb{url}
+      \verb https://digitaler-mittelstand.de/trends/ratgeber/internet-der-dinge-eine-kurze-definition-mit-4-beispielen-20287
       \endverb
     \endentry
     \entry{nextchange}{online}{}
@@ -106,35 +161,6 @@
       \verb{url}
       \verb http://www.next-change.com/nextchange-wissen/item/smart-workplace-im-unternehmen-der-zukunft-%5C%E2%5C%80%5C%93-arbeitswelt-4-0
       \endverb
-    \endentry
-    \entry{OlearySteele}{book}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=1b9d8f452ead5a70275e7dc85b1ff3f3}{%
-           family={O’leary-Steele},
-           familyi={O\bibinithyphendelim S\bibinitperiod},
-           given={Gary},
-           giveni={G\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Boston}%
-      }
-      \list{publisher}{1}{%
-        {Syngress}%
-      }
-      \strng{namehash}{1b9d8f452ead5a70275e7dc85b1ff3f3}
-      \strng{fullhash}{1b9d8f452ead5a70275e7dc85b1ff3f3}
-      \strng{authornamehash}{1b9d8f452ead5a70275e7dc85b1ff3f3}
-      \strng{authorfullhash}{1b9d8f452ead5a70275e7dc85b1ff3f3}
-      \field{sortinit}{O}
-      \field{sortinithash}{f5d80ef71b5b58852663ecfd775b175a}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{\{SQL\} Injection Attacks and Defense}
-      \field{title}{Chapter 11 - References}
-      \field{year}{2012}
-      \field{pages}{485\bibrangedash 533}
-      \range{pages}{49}
     \endentry
     \entry{samu2002database}{patent}{}
       \name{author}{3}{}{%
@@ -174,49 +200,55 @@
       \verb https://www.google.com/patents/US6405212
       \endverb
     \endentry
-    \entry{shao2006triggers}{article}{}
-      \name{author}{3}{}{%
-        {{uniquename=0,hash=ee558650f11e3dd194c3631df0bdbfc6}{%
-           family={Shao},
-           familyi={S\bibinitperiod},
-           given={Feng},
-           giveni={F\bibinitperiod}}}%
-        {{uniquename=0,hash=d7ba7570e604c9481daf1f42dc1309d0}{%
-           family={Novak},
-           familyi={N\bibinitperiod},
-           given={Antal},
-           giveni={A\bibinitperiod}}}%
-        {{uniquename=0,hash=917a84b7a848f78d9561c5d1069ce6a9}{%
-           family={Shanmugasundaram},
-           familyi={S\bibinitperiod},
-           given={Jayavel},
-           giveni={J\bibinitperiod}}}%
+    \entry{MicrosoftArtikel}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=5730acd7338cf1262169c8a80329c82c}{%
+           family={{Süster Volquardsen, Anna}},
+           familyi={S\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {ACM}%
-      }
-      \strng{namehash}{48a62f67257aebc37ebb84fe9b7782f6}
-      \strng{fullhash}{85746e8745f7655be7274a6cfb35c24a}
-      \strng{authornamehash}{48a62f67257aebc37ebb84fe9b7782f6}
-      \strng{authorfullhash}{85746e8745f7655be7274a6cfb35c24a}
+      \strng{namehash}{5730acd7338cf1262169c8a80329c82c}
+      \strng{fullhash}{5730acd7338cf1262169c8a80329c82c}
+      \strng{authornamehash}{5730acd7338cf1262169c8a80329c82c}
+      \strng{authorfullhash}{5730acd7338cf1262169c8a80329c82c}
       \field{sortinit}{S}
       \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{ACM Transactions on Database Systems (TODS)}
-      \field{number}{3}
-      \field{title}{Triggers over nested views of relational data}
-      \field{volume}{31}
-      \field{year}{2006}
-      \field{pages}{921\bibrangedash 967}
-      \range{pages}{47}
+      \field{note}{15.05.2017, 19:25}
+      \field{title}{Zu Besuch im Smart Workplace, der neuen Arbeitswelt von Microsoft}
+      \field{year}{2017}
+      \verb{url}
+      \verb https://www.dearwork.de/single-post/2016/10/21/Zu-Besuch-im-Smart-Workspace-von-Microsoft
+      \endverb
+    \endentry
+    \entry{CompWoche}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=5ae01de369b5adc7e54561b1e6097fa4}{%
+           family={Vito\bibnamedelimb Lo\bibnamedelima Verde},
+           familyi={V\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{5ae01de369b5adc7e54561b1e6097fa4}
+      \strng{fullhash}{5ae01de369b5adc7e54561b1e6097fa4}
+      \strng{authornamehash}{5ae01de369b5adc7e54561b1e6097fa4}
+      \strng{authorfullhash}{5ae01de369b5adc7e54561b1e6097fa4}
+      \field{sortinit}{V}
+      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{30.05.2017, 22:12}
+      \field{title}{Was bringt Unified Communication \& Collaboration?}
+      \field{year}{2017}
+      \verb{url}
+      \verb https://www.computerwoche.de/a/was-bringt-unified-communication-und-collaboration,3329610
+      \endverb
     \endentry
   \endsortlist
-  \missing{UniversityofDelaware}
+  \missing{shao2006triggers}
   \missing{oracle}
-  \missing{BusinessDictionary}
-  \missing{OracleCorp}
 \endrefsection
 \endinput
 
