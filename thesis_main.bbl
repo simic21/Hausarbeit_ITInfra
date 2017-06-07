@@ -162,44 +162,6 @@
       \verb http://www.next-change.com/nextchange-wissen/item/smart-workplace-im-unternehmen-der-zukunft-%5C%E2%5C%80%5C%93-arbeitswelt-4-0
       \endverb
     \endentry
-    \entry{samu2002database}{patent}{}
-      \name{author}{3}{}{%
-        {{uniquename=0,hash=5c099951b637a46341ed7c6fecc021e3}{%
-           family={Samu},
-           familyi={S\bibinitperiod},
-           given={S.},
-           giveni={S\bibinitperiod}}}%
-        {{uniquename=0,hash=b3ddcbe6f3ecae45b127c75c38055130}{%
-           family={Jain},
-           familyi={J\bibinitperiod},
-           given={N.},
-           giveni={N\bibinitperiod}}}%
-        {{uniquename=0,hash=92aa6b8419e8158a0f074b20ec910f14}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={W.},
-           giveni={W\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Google Patents}%
-      }
-      \strng{namehash}{c7775874ba110a0edc097214f898c422}
-      \strng{fullhash}{fb0e892f0aa96e20e4e09951cfe1abae}
-      \strng{authornamehash}{c7775874ba110a0edc097214f898c422}
-      \strng{authorfullhash}{fb0e892f0aa96e20e4e09951cfe1abae}
-      \field{sortinit}{S}
-      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{6}
-      \field{note}{US Patent 6,405,212}
-      \field{title}{Database system event triggers}
-      \field{year}{2002}
-      \verb{url}
-      \verb https://www.google.com/patents/US6405212
-      \endverb
-    \endentry
     \entry{MicrosoftArtikel}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=5730acd7338cf1262169c8a80329c82c}{%
@@ -221,6 +183,33 @@
       \verb{url}
       \verb https://www.dearwork.de/single-post/2016/10/21/Zu-Besuch-im-Smart-Workspace-von-Microsoft
       \endverb
+    \endentry
+    \entry{SpecialIssue}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=57888a0fb73765ca7e52cc48729ed6c9}{%
+           family={Vasilakos},
+           familyi={V\bibinitperiod},
+           given={Athanasios\bibnamedelima V.},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{57888a0fb73765ca7e52cc48729ed6c9}
+      \strng{fullhash}{57888a0fb73765ca7e52cc48729ed6c9}
+      \strng{authornamehash}{57888a0fb73765ca7e52cc48729ed6c9}
+      \strng{authorfullhash}{57888a0fb73765ca7e52cc48729ed6c9}
+      \field{sortinit}{V}
+      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Information Sciences}
+      \field{title}{Special Issue: Ambient Intelligence}
+      \field{volume}{178}
+      \field{year}{2008}
+      \field{pages}{585\bibrangedash 587}
+      \range{pages}{3}
     \endentry
     \entry{CompWoche}{online}{}
       \name{author}{1}{}{%
@@ -247,8 +236,9 @@
       \endverb
     \endentry
   \endsortlist
-  \missing{shao2006triggers}
   \missing{oracle}
+  \missing{samu2002database}
+  \missing{shao2006triggers}
 \endrefsection
 \endinput
 

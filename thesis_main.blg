@@ -1,18 +1,20 @@
 [0] Config.pm:354> INFO - This is Biber 2.7
 [0] Config.pm:357> INFO - Logfile is 'thesis_main.blg'
-[30] biber-MSWIN64:303> INFO - === 
+[29] biber-MSWIN64:303> INFO - === 
 [54] Biber.pm:359> INFO - Reading 'thesis_main.bcf'
-[143] Biber.pm:835> INFO - Found 11 citekeys in bib section 0
-[156] Biber.pm:3670> INFO - Processing section 0
-[175] Biber.pm:3840> INFO - Looking for bibtex format file 'literatur/literatur.bib' for section 0
-[179] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
-[183] bibtex.pm:1292> INFO - Found BibTeX data source 'literatur/literatur.bib'
-[201] Utils.pm:164> WARN - I didn't find a database entry for 'shao2006triggers' (section 0)
-[202] Utils.pm:164> WARN - I didn't find a database entry for 'oracle' (section 0)
-[220] UCollate.pm:68> INFO - Overriding locale 'de' defaults 'variable = shifted' with 'variable = non-ignorable'
-[220] UCollate.pm:68> INFO - Overriding locale 'de' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[220] Biber.pm:3499> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'de'
-[220] Biber.pm:3505> INFO - No sort tailoring available for locale 'de'
-[228] bbl.pm:608> INFO - Writing 'thesis_main.bbl' with encoding 'UTF-8'
-[230] bbl.pm:712> INFO - Output to thesis_main.bbl
-[230] Biber.pm:109> INFO - WARNINGS: 2
+[138] Biber.pm:835> INFO - Found 13 citekeys in bib section 0
+[151] Biber.pm:3670> INFO - Processing section 0
+[170] Biber.pm:3840> INFO - Looking for bibtex format file 'literatur/literatur.bib' for section 0
+[173] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[178] bibtex.pm:1292> INFO - Found BibTeX data source 'literatur/literatur.bib'
+[190] Utils.pm:164> WARN - Name "Ducatel K., Bogdanowicz M., Scapolo F., Leijten J., Burgelman J-C." has too many commas: skipping name
+[195] Utils.pm:164> WARN - I didn't find a database entry for 'shao2006triggers' (section 0)
+[195] Utils.pm:164> WARN - I didn't find a database entry for 'oracle' (section 0)
+[195] Utils.pm:164> WARN - I didn't find a database entry for 'samu2002database' (section 0)
+[211] UCollate.pm:68> INFO - Overriding locale 'de' defaults 'variable = shifted' with 'variable = non-ignorable'
+[211] UCollate.pm:68> INFO - Overriding locale 'de' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[211] Biber.pm:3499> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'de'
+[211] Biber.pm:3505> INFO - No sort tailoring available for locale 'de'
+[219] bbl.pm:608> INFO - Writing 'thesis_main.bbl' with encoding 'UTF-8'
+[221] bbl.pm:712> INFO - Output to thesis_main.bbl
+[221] Biber.pm:109> INFO - WARNINGS: 4

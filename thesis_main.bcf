@@ -2149,17 +2149,20 @@
     <bcf:citekey order="3">iotagenda</bcf:citekey>
     <bcf:citekey order="4">leseprobe</bcf:citekey>
     <bcf:citekey order="5">istag</bcf:citekey>
-    <bcf:citekey order="6">efm</bcf:citekey>
-    <bcf:citekey order="7">efm</bcf:citekey>
-    <bcf:citekey order="8">efm</bcf:citekey>
-    <bcf:citekey order="9">SCmagazineUK</bcf:citekey>
-    <bcf:citekey order="10">CompWoche</bcf:citekey>
-    <bcf:citekey order="11">mittelstand</bcf:citekey>
+    <bcf:citekey order="6">leseprobe</bcf:citekey>
+    <bcf:citekey order="7">SpecialIssue</bcf:citekey>
+    <bcf:citekey order="8">SpecialIssue</bcf:citekey>
+    <bcf:citekey order="9">efm</bcf:citekey>
+    <bcf:citekey order="10">efm</bcf:citekey>
+    <bcf:citekey order="11">efm</bcf:citekey>
     <bcf:citekey order="12">SCmagazineUK</bcf:citekey>
-    <bcf:citekey order="13">shao2006triggers</bcf:citekey>
-    <bcf:citekey order="14">oracle</bcf:citekey>
-    <bcf:citekey order="15">samu2002database</bcf:citekey>
-    <bcf:citekey order="16">oracle</bcf:citekey>
+    <bcf:citekey order="13">CompWoche</bcf:citekey>
+    <bcf:citekey order="14">mittelstand</bcf:citekey>
+    <bcf:citekey order="15">SCmagazineUK</bcf:citekey>
+    <bcf:citekey order="16">shao2006triggers</bcf:citekey>
+    <bcf:citekey order="17">oracle</bcf:citekey>
+    <bcf:citekey order="18">samu2002database</bcf:citekey>
+    <bcf:citekey order="19">oracle</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nty/global/" type="entry" sortscheme="nty" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>
