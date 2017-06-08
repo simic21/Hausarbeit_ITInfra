@@ -19,6 +19,118 @@
 
 \refsection{0}
   \sortlist[entry]{nty/global/}
+    \entry{MOVE}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=00689efc59b70c935fd772804fd043f8}{%
+           family={Bai},
+           familyi={B\bibinitperiod},
+           given={Yuebin},
+           giveni={Y\bibinitperiod}}}%
+        {{uniquename=0,hash=048550ab3b10ca00c5f2d8feaef4c2fb}{%
+           family={Ju},
+           familyi={J\bibinitperiod},
+           given={Yanwen},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{160dbf35f98c0c3930e0e61f4a8657a8}
+      \strng{fullhash}{160dbf35f98c0c3930e0e61f4a8657a8}
+      \strng{authornamehash}{160dbf35f98c0c3930e0e61f4a8657a8}
+      \strng{authorfullhash}{160dbf35f98c0c3930e0e61f4a8657a8}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0167-739X}
+      \field{journaltitle}{Future Generation Computer Systems}
+      \field{note}{Including Special sections SS: Volunteer Computing and Desktop Grids and SS: Mobile Ubiquitous Computing}
+      \field{number}{6}
+      \field{title}{MOVE: A mobile personalized virtual computing environment}
+      \field{volume}{28}
+      \field{year}{2012}
+      \field{pages}{890\bibrangedash 899}
+      \range{pages}{10}
+    \endentry
+    \entry{InformatikSpektrum}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=84594b0de773fac4e4fd5f27b4aedbff}{%
+           family={Baun},
+           familyi={B\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=abb8ad23fec63bae14e5bb2966f07080}{%
+           family={Kunze},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=d33515fa8ee27c763b2f4416fd0fb6b8}{%
+           family={Ludwig},
+           familyi={L\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{0464afabbb5d6a059167c1c5457e32c2}
+      \strng{fullhash}{f126f810a2baab8e0291f2b1a866c3a9}
+      \strng{authornamehash}{0464afabbb5d6a059167c1c5457e32c2}
+      \strng{authorfullhash}{f126f810a2baab8e0291f2b1a866c3a9}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Informatik-Spektrum}
+      \field{title}{Servervirtualisierung}
+      \field{volume}{32}
+      \field{year}{2009}
+      \field{pages}{197\bibrangedash 205}
+      \range{pages}{9}
+    \endentry
+    \entry{istag}{book}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=40a885776e0e8962ff7296e62d9a0ac9}{%
+           family={Ducatel},
+           familyi={D\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{uniquename=0,hash=4b6893858b9cca1f28d99cfeabeb4dd1}{%
+           family={Bogdanowicz},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=b651207e2aae4e1cd4590177d8462ac3}{%
+           family={Scapolo},
+           familyi={S\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{uniquename=0,hash=9b8f89b774ddab7ce663ac1bb48a3f09}{%
+           family={Leijten},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=46414db3b5af235bb25356752f7a68a6}{%
+           family={Burgelman},
+           familyi={B\bibinitperiod},
+           given={J-C.},
+           giveni={J\bibinithyphendelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Ohne Herausgeber}%
+      }
+      \strng{namehash}{731a1ba6140476cf897680654079be8a}
+      \strng{fullhash}{46b5b3fb624bec47e95e695f793666f1}
+      \strng{authornamehash}{731a1ba6140476cf897680654079be8a}
+      \strng{authorfullhash}{46b5b3fb624bec47e95e695f793666f1}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Scenarios for Ambient Intelligence in 2010}
+      \field{year}{2001}
+    \endentry
     \entry{efm}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=3780742a9a00c07103f56689fb06cad6}{%
@@ -67,14 +179,16 @@
     \endentry
     \entry{iotagenda}{online}{}
       \name{author}{1}{}{%
-        {{uniquename=0,hash=a98ff6a81f16a7ca5d039e5eb314ad18}{%
-           family={{Hedayat, Kaynam}},
-           familyi={H\bibinitperiod}}}%
+        {{uniquename=0,hash=34cbd193094c38479586fe1f0894eccc}{%
+           family={Hedayat},
+           familyi={H\bibinitperiod},
+           given={Kaynam},
+           giveni={K\bibinitperiod}}}%
       }
-      \strng{namehash}{a98ff6a81f16a7ca5d039e5eb314ad18}
-      \strng{fullhash}{a98ff6a81f16a7ca5d039e5eb314ad18}
-      \strng{authornamehash}{a98ff6a81f16a7ca5d039e5eb314ad18}
-      \strng{authorfullhash}{a98ff6a81f16a7ca5d039e5eb314ad18}
+      \strng{namehash}{34cbd193094c38479586fe1f0894eccc}
+      \strng{fullhash}{34cbd193094c38479586fe1f0894eccc}
+      \strng{authornamehash}{34cbd193094c38479586fe1f0894eccc}
+      \strng{authorfullhash}{34cbd193094c38479586fe1f0894eccc}
       \field{sortinit}{H}
       \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
       \field{labeldatesource}{year}
@@ -164,14 +278,16 @@
     \endentry
     \entry{MicrosoftArtikel}{online}{}
       \name{author}{1}{}{%
-        {{uniquename=0,hash=5730acd7338cf1262169c8a80329c82c}{%
-           family={{Süster Volquardsen, Anna}},
-           familyi={S\bibinitperiod}}}%
+        {{uniquename=0,hash=6f78669dbf891472135f01863417c268}{%
+           family={Süster\bibnamedelima Volquardsen},
+           familyi={S\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
       }
-      \strng{namehash}{5730acd7338cf1262169c8a80329c82c}
-      \strng{fullhash}{5730acd7338cf1262169c8a80329c82c}
-      \strng{authornamehash}{5730acd7338cf1262169c8a80329c82c}
-      \strng{authorfullhash}{5730acd7338cf1262169c8a80329c82c}
+      \strng{namehash}{6f78669dbf891472135f01863417c268}
+      \strng{fullhash}{6f78669dbf891472135f01863417c268}
+      \strng{authornamehash}{6f78669dbf891472135f01863417c268}
+      \strng{authorfullhash}{6f78669dbf891472135f01863417c268}
       \field{sortinit}{S}
       \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
       \field{labeldatesource}{year}
@@ -184,21 +300,48 @@
       \verb https://www.dearwork.de/single-post/2016/10/21/Zu-Besuch-im-Smart-Workspace-von-Microsoft
       \endverb
     \endentry
-    \entry{SpecialIssue}{article}{}
+    \entry{ibm}{online}{}
       \name{author}{1}{}{%
-        {{uniquename=0,hash=57888a0fb73765ca7e52cc48729ed6c9}{%
+        {{uniquename=0,hash=da993bee17d317934dc62bfb571ea8b5}{%
+           family={Tholeti},
+           familyi={T\bibinitperiod},
+           given={Bhanu\bibnamedelima P.},
+           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{da993bee17d317934dc62bfb571ea8b5}
+      \strng{fullhash}{da993bee17d317934dc62bfb571ea8b5}
+      \strng{authornamehash}{da993bee17d317934dc62bfb571ea8b5}
+      \strng{authorfullhash}{da993bee17d317934dc62bfb571ea8b5}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{08.06.2017, 23:05}
+      \field{title}{Learn about hypervisors, system virtualization, and how it works in a cloud environment}
+      \field{year}{2011}
+      \verb{url}
+      \verb https://www.ibm.com/developerworks/cloud/library/cl-hypervisorcompare/
+      \endverb
+    \endentry
+    \entry{SpecialIssue}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=fef783d275cb5eb05abc27fb963b248d}{%
            family={Vasilakos},
-           familyi={V\bibinitperiod},
-           given={Athanasios\bibnamedelima V.},
-           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+           familyi={V\bibinitperiod}}}%
+        {{uniquename=0,hash=904a0b4737724ecebd787c18245c0672}{%
+           family={Athanasios},
+           familyi={A\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Elsevier}%
       }
-      \strng{namehash}{57888a0fb73765ca7e52cc48729ed6c9}
-      \strng{fullhash}{57888a0fb73765ca7e52cc48729ed6c9}
-      \strng{authornamehash}{57888a0fb73765ca7e52cc48729ed6c9}
-      \strng{authorfullhash}{57888a0fb73765ca7e52cc48729ed6c9}
+      \strng{namehash}{3e30a52b1c43490025eb62fecbe8007a}
+      \strng{fullhash}{3e30a52b1c43490025eb62fecbe8007a}
+      \strng{authornamehash}{3e30a52b1c43490025eb62fecbe8007a}
+      \strng{authorfullhash}{3e30a52b1c43490025eb62fecbe8007a}
       \field{sortinit}{V}
       \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
       \field{labeldatesource}{year}
@@ -236,9 +379,6 @@
       \endverb
     \endentry
   \endsortlist
-  \missing{oracle}
-  \missing{samu2002database}
-  \missing{shao2006triggers}
 \endrefsection
 \endinput
 

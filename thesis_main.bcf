@@ -2159,10 +2159,10 @@
     <bcf:citekey order="13">CompWoche</bcf:citekey>
     <bcf:citekey order="14">mittelstand</bcf:citekey>
     <bcf:citekey order="15">SCmagazineUK</bcf:citekey>
-    <bcf:citekey order="16">shao2006triggers</bcf:citekey>
-    <bcf:citekey order="17">oracle</bcf:citekey>
-    <bcf:citekey order="18">samu2002database</bcf:citekey>
-    <bcf:citekey order="19">oracle</bcf:citekey>
+    <bcf:citekey order="16">MOVE</bcf:citekey>
+    <bcf:citekey order="17">InformatikSpektrum</bcf:citekey>
+    <bcf:citekey order="18">ibm</bcf:citekey>
+    <bcf:citekey order="19">ibm</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nty/global/" type="entry" sortscheme="nty" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>

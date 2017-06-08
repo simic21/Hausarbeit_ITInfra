@@ -1,22 +1,16 @@
 \newpage
-\section{Modelle}
-\subsection{Agiles Modell}
-Schon seit den frühen 90er Jahren wurden Trigger in einigen Produkten unterstützt, allerdings erst im SQL-99 Standard aufgenommen\footcite[Vgl.][2]{shao2006triggers}. Trigger sind benamte PL/SQL Objekte, welche in der Datenbank hinterlegt werden und beliebig oft ausgeführt werden können. Ein Trigger lässt sich aktivieren bzw. deaktivieren, allerdings nicht explizit ausführen. Solange er aktiv ist, wird er von der Datenbank automatisch ausgeführt bzw. gefeuert, sobald das für diesen Trigger definierte Event eintritt.\footcite[Vgl.][S. 9-1 f.]{oracle}
+\section{Mögliche Aspekte}
+\subsection{Persönliche mobile Arbeitsumgebung}
+Heutzutage werden Computer für alle möglichen Tätigkeiten in der Arbeitswelt benötigt, ob nun für kleinere Aufgaben oder für komplexe Berechnung mit Hilfe eines am Netzwerk angeschlossenen Supercomputers. In einer modernen Umgebung kann es unter Umständen notwendig sein den Arbeitsplatz aufgrund einer Tätigkeit zu wechseln um diese ausführen zu können. Dies hat allerdings zur Folge, dass dort der eigene Rechner mit den zugehörigen Daten und möglicherweise auch die benötigte Rechenleistung nicht verfügbar ist.
+Um für die Benutzer eine auf allen Rechnersystemen einheitliche Bedienerfahrung gewährleisten zu können, lässt sich eine sogenannte mobile personalisierte virtuelle Computerumgebung (MOVE)\nomenclature{MOVE}{Mobile Personalized Virtual Computing Environment} nutzen. Durch diese Umgebung wird dem Benutzer auf jeder beliebigen Maschine eine gleichmäßig konsistente Desktop-Rechner-Umgebung präsentiert, welche sowohl die gleichen personenbezogenen Daten und Software als auch die verfügbare Rechenleistung liefert wie am eigenen Arbeitsplatzrechner. Eine solche Desktop-Rechner-Umgebung besteht zum Großteil aus der installierten Software einschließlich des Betriebs- und Dateisystems. Diese könnten zwar vom Speichermedium auf ein anderes übertragen werden, aufgrund der engen Koppelung ließe sich diese allerdings nicht einfach auf einem neuen System ausführen. Um diese Abstraktion gewährleisten zu können, wird die Technologie der virtuellen Maschinen (VM)\nomenclature{VM}{Virtual Maschine} genutzt.\footcite[Vgl.][Seite 890 f.]{MOVE}
 
-Die Events, welche benutzerdefinierte Trigger auslösen, sind laut dem Industriestandard DML Befehle. In einer relationalen Datenbank können Trigger zum Beispiel dergestalt definiert werden, dass sie dann gefeuert werden, wenn eine Zeile einer Tabelle oder eines Views geändert, eingefügt oder gelöscht wird. Dementsprechend ist jeder Trigger einer Tabelle der Datenbank zugeordnet. Das bedeutet, dass die Reichweite von benutzerdefinierten Triggern in einem konventionellen DBMS der Tabellenebene der Datenbank entspricht.\footcite[Vgl.][]{samu2002database} In so einem Fall spricht man von einem "`DML Trigger"'. Ist ein Trigger für ein Schema oder die Datenbank selbst angelegt, ist das Event aus DDL oder Datenbankoperationsbefehlen zusammengesetzt und wird "`System Trigger"' genannt.\footcite[Vgl.][9-2]{oracle}
+Bei der Virtualisierung werden mit Hilfe von Technologien die Ressourcen eines Rechnersystems auf mehrere einzelne Klienten aufgeteilt um diese effektiver und flexibler nutzbar zu machen. Dies geschieht dadurch, dass unterschiedliche Klassen von Anwendungen auf wenigen physischen Systemen konsolidiert und von mehreren unabhängigen Betriebssysteminstanzen gleichzeitig genutzt werden können.\footcite[Vgl.][Seite 197]{InformatikSpektrum} Diese Virtualisierung wird mit der Hypervisor Technologie implementiert. Ein Hypervisor, oder auch Virtual Maschine Monitor (VMM)\nomenclature{VMM}{Virtual Maschine Monitor} genannt, ist ein Stück Hardware oder Software welches Systemressourcen virtualisiert, wobei zwischen Typ 1 und Typ 2 Hypervisors unterschieden wird. Typ 1 Hypervisors sind direkt auf der Hardware implementiert, Typ 2 Hypervisors laufen dagegen auf einem Host Betriebssystem. Dieses stellt Dienste wie Speichermanagement zur Virtualisierung zur Verfügung.\footcite[Vgl.][]{ibm}
 
-
-
-
-
-\subsection{Anderes Modell}
-Das folgende Kapitel basiert, falls nicht explizit anders erwähnt, auf den Ausführungen von Alpern et al. (2016), Seite 9-1 ff. Zur Referenz wird am Ende eines jeden Abschnitts auf die entsprechende Stelle der Quelle verwiesen.
-
-
-
-
-\subsection{Noch ein anderes Modell}
-Die Sprache zur Spezifikation eines Triggers hat die folgende Syntax:
-
-\lstinputlisting[language=SQL]{./Quellcode/triggerdef.sql}
-
+\begin{figure}[H]
+\begin{center}
+\includegraphics[width=0.9\textwidth]{hypervisors}
+\caption{Unterschiede zwischen den Typ 1 und Typ 2 Hypervisors}
+Quelle: \cite[]{ibm}
+\end{center}
+\end{figure}
+\vspace{-1cm}
