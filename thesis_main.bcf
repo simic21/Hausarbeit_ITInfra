@@ -2163,6 +2163,10 @@
     <bcf:citekey order="17">InformatikSpektrum</bcf:citekey>
     <bcf:citekey order="18">ibm</bcf:citekey>
     <bcf:citekey order="19">ibm</bcf:citekey>
+    <bcf:citekey order="20">MOVE</bcf:citekey>
+    <bcf:citekey order="21">MOVE</bcf:citekey>
+    <bcf:citekey order="22">MOVE</bcf:citekey>
+    <bcf:citekey order="23">MOVE</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nty/global/" type="entry" sortscheme="nty" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>

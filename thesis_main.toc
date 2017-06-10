@@ -24,9 +24,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.1}Pers\IeC {\"o}nliche mobile Arbeitsumgebung}{6}{subsection.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Vergleich}{8}{section.4}
+\contentsline {subsubsection}{\numberline {3.1.1}Funktionalit\IeC {\"a}t}{6}{subsubsection.3.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Fazit}{8}{section.5}
+\contentsline {subsubsection}{\numberline {3.1.2}Aufbau eines MOVE Systems}{7}{subsubsection.3.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\nonumberline Literaturverzeichnis}{V}{section*.4}
+\contentsline {section}{\numberline {4}Vergleich}{10}{section.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Fazit}{10}{section.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\nonumberline Literaturverzeichnis}{V}{section*.5}
 \contentsfinish 
