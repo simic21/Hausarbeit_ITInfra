@@ -2167,6 +2167,8 @@
     <bcf:citekey order="21">MOVE</bcf:citekey>
     <bcf:citekey order="22">MOVE</bcf:citekey>
     <bcf:citekey order="23">MOVE</bcf:citekey>
+    <bcf:citekey order="24">MOVE</bcf:citekey>
+    <bcf:citekey order="25">Table</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nty/global/" type="entry" sortscheme="nty" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>

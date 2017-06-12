@@ -276,6 +276,52 @@
       \verb http://www.next-change.com/nextchange-wissen/item/smart-workplace-im-unternehmen-der-zukunft-%5C%E2%5C%80%5C%93-arbeitswelt-4-0
       \endverb
     \endentry
+    \entry{Table}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=358d69176a21ecb5738ddabcb09317c1}{%
+           family={Ponto},
+           familyi={P\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{uniquename=0,hash=700f7071d5362009794efbe1ef785888}{%
+           family={Doerr},
+           familyi={D\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod}}}%
+        {{uniquename=0,hash=a1d3fcd985933bbd8e644a82dcd77b4f}{%
+           family={Wypych},
+           familyi={W\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+        {{uniquename=0,hash=67a86bee46bd90b271c21bc5d46fb0e8}{%
+           family={Kooker},
+           familyi={K\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=9d499d33171c7c7fc94e1498bd59d4bd}{%
+           family={Kuester},
+           familyi={K\bibinitperiod},
+           given={Falko},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{42d4ab3e15d9ef813d0275a84722feac}
+      \strng{fullhash}{11dc2546b3f4708fb8e89fc1801575ff}
+      \strng{authornamehash}{42d4ab3e15d9ef813d0275a84722feac}
+      \strng{authorfullhash}{11dc2546b3f4708fb8e89fc1801575ff}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0167-739X}
+      \field{journaltitle}{Future Generation Computer Systems}
+      \field{number}{6}
+      \field{title}{CGLXTouch: A multi-user multi-touch approach for ultra-high-resolution collaborative workspaces}
+      \field{volume}{27}
+      \field{year}{2011}
+      \field{pages}{649\bibrangedash 656}
+      \range{pages}{8}
+    \endentry
     \entry{MicrosoftArtikel}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=6f78669dbf891472135f01863417c268}{%
