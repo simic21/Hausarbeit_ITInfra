@@ -88,6 +88,37 @@
       \field{pages}{197\bibrangedash 205}
       \range{pages}{9}
     \endentry
+    \entry{CGLX}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=429c9b7278d51960f54d897b27601834}{%
+           family={Doerr},
+           familyi={D\bibinitperiod},
+           given={K.\bibnamedelimi U.},
+           giveni={K\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+        {{uniquename=0,hash=ab39e6d251fde7d9ab768b61bea6adb1}{%
+           family={Kuester},
+           familyi={K\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{d6f07100c65a7f9e2eb50ffe43624464}
+      \strng{fullhash}{d6f07100c65a7f9e2eb50ffe43624464}
+      \strng{authornamehash}{d6f07100c65a7f9e2eb50ffe43624464}
+      \strng{authorfullhash}{d6f07100c65a7f9e2eb50ffe43624464}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1077-2626}
+      \field{journaltitle}{IEEE Transactions on Visualization and Computer Graphics}
+      \field{number}{3}
+      \field{title}{CGLX: A Scalable, High-Performance Visualization Framework for Networked Display Environments}
+      \field{volume}{17}
+      \field{year}{2011}
+      \field{pages}{320\bibrangedash 332}
+      \range{pages}{13}
+    \endentry
     \entry{istag}{book}{}
       \name{author}{5}{}{%
         {{uniquename=0,hash=40a885776e0e8962ff7296e62d9a0ac9}{%
