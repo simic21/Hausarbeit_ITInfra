@@ -3,8 +3,8 @@
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
-% This file may safely be deleted. It will be recreated by
-% biber as required.
+% This file may safely be deleted. It will be recreated as
+% required.
 %
 \begingroup
 \makeatletter
@@ -16,446 +16,679 @@
   {}
 \endgroup
 
+\sortlist[entry]{nyt/global/}
+  \entry{MOVE}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BY}{%
+         family={Bai},
+         familyi={B\bibinitperiod},
+         given={Yuebin},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=JY}{%
+         family={Ju},
+         familyi={J\bibinitperiod},
+         given={Yanwen},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BYJY1}
+    \strng{fullhash}{BYJY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{issn}{0167-739X}
+    \field{note}{Including Special sections SS: Volunteer Computing and Desktop
+  Grids and SS: Mobile Ubiquitous Computing}
+    \field{number}{6}
+    \field{pages}{890 \bibrangedash  899}
+    \field{title}{MOVE: A mobile personalized virtual computing environment}
+    \field{volume}{28}
+    \field{journaltitle}{Future Generation Computer Systems}
+    \field{year}{2012}
+  \endentry
 
-\refsection{0}
-  \sortlist[entry]{nty/global/}
-    \entry{MOVE}{article}{}
-      \name{author}{2}{}{%
-        {{uniquename=0,hash=00689efc59b70c935fd772804fd043f8}{%
-           family={Bai},
-           familyi={B\bibinitperiod},
-           given={Yuebin},
-           giveni={Y\bibinitperiod}}}%
-        {{uniquename=0,hash=048550ab3b10ca00c5f2d8feaef4c2fb}{%
-           family={Ju},
-           familyi={J\bibinitperiod},
-           given={Yanwen},
-           giveni={Y\bibinitperiod}}}%
-      }
-      \strng{namehash}{160dbf35f98c0c3930e0e61f4a8657a8}
-      \strng{fullhash}{160dbf35f98c0c3930e0e61f4a8657a8}
-      \strng{authornamehash}{160dbf35f98c0c3930e0e61f4a8657a8}
-      \strng{authorfullhash}{160dbf35f98c0c3930e0e61f4a8657a8}
-      \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0167-739X}
-      \field{journaltitle}{Future Generation Computer Systems}
-      \field{note}{Including Special sections SS: Volunteer Computing and Desktop Grids and SS: Mobile Ubiquitous Computing}
-      \field{number}{6}
-      \field{title}{MOVE: A mobile personalized virtual computing environment}
-      \field{volume}{28}
-      \field{year}{2012}
-      \field{pages}{890\bibrangedash 899}
-      \range{pages}{10}
-    \endentry
-    \entry{InformatikSpektrum}{article}{}
-      \name{author}{3}{}{%
-        {{uniquename=0,hash=84594b0de773fac4e4fd5f27b4aedbff}{%
-           family={Baun},
-           familyi={B\bibinitperiod},
-           given={C.},
-           giveni={C\bibinitperiod}}}%
-        {{uniquename=0,hash=abb8ad23fec63bae14e5bb2966f07080}{%
-           family={Kunze},
-           familyi={K\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod}}}%
-        {{uniquename=0,hash=d33515fa8ee27c763b2f4416fd0fb6b8}{%
-           family={Ludwig},
-           familyi={L\bibinitperiod},
-           given={T.},
-           giveni={T\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer Berlin Heidelberg}%
-      }
-      \strng{namehash}{0464afabbb5d6a059167c1c5457e32c2}
-      \strng{fullhash}{f126f810a2baab8e0291f2b1a866c3a9}
-      \strng{authornamehash}{0464afabbb5d6a059167c1c5457e32c2}
-      \strng{authorfullhash}{f126f810a2baab8e0291f2b1a866c3a9}
-      \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Informatik-Spektrum}
-      \field{title}{Servervirtualisierung}
-      \field{volume}{32}
-      \field{year}{2009}
-      \field{pages}{197\bibrangedash 205}
-      \range{pages}{9}
-    \endentry
-    \entry{CGLX}{article}{}
-      \name{author}{2}{}{%
-        {{uniquename=0,hash=429c9b7278d51960f54d897b27601834}{%
-           family={Doerr},
-           familyi={D\bibinitperiod},
-           given={K.\bibnamedelimi U.},
-           giveni={K\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
-        {{uniquename=0,hash=ab39e6d251fde7d9ab768b61bea6adb1}{%
-           family={Kuester},
-           familyi={K\bibinitperiod},
-           given={F.},
-           giveni={F\bibinitperiod}}}%
-      }
-      \strng{namehash}{d6f07100c65a7f9e2eb50ffe43624464}
-      \strng{fullhash}{d6f07100c65a7f9e2eb50ffe43624464}
-      \strng{authornamehash}{d6f07100c65a7f9e2eb50ffe43624464}
-      \strng{authorfullhash}{d6f07100c65a7f9e2eb50ffe43624464}
-      \field{sortinit}{D}
-      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{1077-2626}
-      \field{journaltitle}{IEEE Transactions on Visualization and Computer Graphics}
-      \field{number}{3}
-      \field{title}{CGLX: A Scalable, High-Performance Visualization Framework for Networked Display Environments}
-      \field{volume}{17}
-      \field{year}{2011}
-      \field{pages}{320\bibrangedash 332}
-      \range{pages}{13}
-    \endentry
-    \entry{istag}{book}{}
-      \name{author}{5}{}{%
-        {{uniquename=0,hash=40a885776e0e8962ff7296e62d9a0ac9}{%
-           family={Ducatel},
-           familyi={D\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod}}}%
-        {{uniquename=0,hash=4b6893858b9cca1f28d99cfeabeb4dd1}{%
-           family={Bogdanowicz},
-           familyi={B\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod}}}%
-        {{uniquename=0,hash=b651207e2aae4e1cd4590177d8462ac3}{%
-           family={Scapolo},
-           familyi={S\bibinitperiod},
-           given={F.},
-           giveni={F\bibinitperiod}}}%
-        {{uniquename=0,hash=9b8f89b774ddab7ce663ac1bb48a3f09}{%
-           family={Leijten},
-           familyi={L\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod}}}%
-        {{uniquename=0,hash=46414db3b5af235bb25356752f7a68a6}{%
-           family={Burgelman},
-           familyi={B\bibinitperiod},
-           given={J-C.},
-           giveni={J\bibinithyphendelim C\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Ohne Herausgeber}%
-      }
-      \strng{namehash}{731a1ba6140476cf897680654079be8a}
-      \strng{fullhash}{46b5b3fb624bec47e95e695f793666f1}
-      \strng{authornamehash}{731a1ba6140476cf897680654079be8a}
-      \strng{authorfullhash}{46b5b3fb624bec47e95e695f793666f1}
-      \field{sortinit}{D}
-      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Scenarios for Ambient Intelligence in 2010}
-      \field{year}{2001}
-    \endentry
-    \entry{efm}{online}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=3780742a9a00c07103f56689fb06cad6}{%
-           family={{eFM S.p.A.}},
-           familyi={e\bibinitperiod}}}%
-      }
-      \strng{namehash}{3780742a9a00c07103f56689fb06cad6}
-      \strng{fullhash}{3780742a9a00c07103f56689fb06cad6}
-      \strng{authornamehash}{3780742a9a00c07103f56689fb06cad6}
-      \strng{authorfullhash}{3780742a9a00c07103f56689fb06cad6}
-      \field{sortinit}{e}
-      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{28.05.2017, 19:41}
-      \field{title}{4 levers for a smart workplace}
-      \field{year}{2017}
-      \verb{url}
-      \verb http://www.efmnet.it/index.php/news/il-56-delle-aziende-adottano-lo-smart-working-per-incrementare-la-produttivita/?lang=en
-      \endverb
-    \endentry
-    \entry{SCmagazineUK}{online}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=77fce8ea03aa44f64c184298ec218688}{%
-           family={Furness},
-           familyi={F\bibinitperiod},
-           given={Mark},
-           giveni={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{77fce8ea03aa44f64c184298ec218688}
-      \strng{fullhash}{77fce8ea03aa44f64c184298ec218688}
-      \strng{authornamehash}{77fce8ea03aa44f64c184298ec218688}
-      \strng{authorfullhash}{77fce8ea03aa44f64c184298ec218688}
-      \field{sortinit}{F}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{30.05.2017, 21:59}
-      \field{title}{The four cornerstones of a smart workplace}
-      \field{year}{2016}
-      \verb{url}
-      \verb https://www.scmagazineuk.com/the-four-cornerstones-of-a-smart-workplace/article/531507/
-      \endverb
-    \endentry
-    \entry{iotagenda}{online}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=34cbd193094c38479586fe1f0894eccc}{%
-           family={Hedayat},
-           familyi={H\bibinitperiod},
-           given={Kaynam},
-           giveni={K\bibinitperiod}}}%
-      }
-      \strng{namehash}{34cbd193094c38479586fe1f0894eccc}
-      \strng{fullhash}{34cbd193094c38479586fe1f0894eccc}
-      \strng{authornamehash}{34cbd193094c38479586fe1f0894eccc}
-      \strng{authorfullhash}{34cbd193094c38479586fe1f0894eccc}
-      \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{28.05.2017, 18:23}
-      \field{title}{The promise of the smart workplace and why it's ready to deliver}
-      \field{year}{2016}
-      \verb{url}
-      \verb http://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/The-promise-of-the-smart-workplace-and-why-its-ready-to-deliver
-      \endverb
-    \endentry
-    \entry{leseprobe}{book}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=d8bf9b9b694aaef6f0f24dd3ffcdd390}{%
-           family={Mikulecky},
-           familyi={M\bibinitperiod},
-           given={P.},
-           giveni={P\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Berlin}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{d8bf9b9b694aaef6f0f24dd3ffcdd390}
-      \strng{fullhash}{d8bf9b9b694aaef6f0f24dd3ffcdd390}
-      \strng{authornamehash}{d8bf9b9b694aaef6f0f24dd3ffcdd390}
-      \strng{authorfullhash}{d8bf9b9b694aaef6f0f24dd3ffcdd390}
-      \field{sortinit}{M}
-      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Lecture Notes in Computer Science}
-      \field{title}{User Adaptivity in Smart Workplaces. In: Pan JS., Chen SM., Nguyen N.T. (eds) Intelligent Information and Database Systems. ACIIDS 2012}
-      \field{year}{2012}
-      \field{pages}{401\bibrangedash 410}
-      \range{pages}{10}
-    \endentry
-    \entry{mittelstand}{online}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=fd44d81857779a9f9d8492f03c001f35}{%
-           family={Neumann},
-           familyi={N\bibinitperiod},
-           given={Detlev},
-           giveni={D\bibinitperiod}}}%
-      }
-      \strng{namehash}{fd44d81857779a9f9d8492f03c001f35}
-      \strng{fullhash}{fd44d81857779a9f9d8492f03c001f35}
-      \strng{authornamehash}{fd44d81857779a9f9d8492f03c001f35}
-      \strng{authorfullhash}{fd44d81857779a9f9d8492f03c001f35}
-      \field{sortinit}{N}
-      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{31.05.2017, 20:36}
-      \field{title}{Internet der Dinge: Eine kurze Definition mit 4 Beispielen}
-      \field{year}{2016}
-      \verb{url}
-      \verb https://digitaler-mittelstand.de/trends/ratgeber/internet-der-dinge-eine-kurze-definition-mit-4-beispielen-20287
-      \endverb
-    \endentry
-    \entry{nextchange}{online}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=9f746f036104955c2c21fd26ea83dbb6}{%
-           family={{nextchange Development UG}},
-           familyi={n\bibinitperiod}}}%
-      }
-      \strng{namehash}{9f746f036104955c2c21fd26ea83dbb6}
-      \strng{fullhash}{9f746f036104955c2c21fd26ea83dbb6}
-      \strng{authornamehash}{9f746f036104955c2c21fd26ea83dbb6}
-      \strng{authorfullhash}{9f746f036104955c2c21fd26ea83dbb6}
-      \field{sortinit}{n}
-      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{28.05.2017, 18:50}
-      \field{title}{Vortrag: Smart Workplace im Unternehmen der Zukunft – Arbeitswelt 4.0}
-      \field{year}{2016}
-      \verb{url}
-      \verb http://www.next-change.com/nextchange-wissen/item/smart-workplace-im-unternehmen-der-zukunft-%5C%E2%5C%80%5C%93-arbeitswelt-4-0
-      \endverb
-    \endentry
-    \entry{Table}{article}{}
-      \name{author}{5}{}{%
-        {{uniquename=0,hash=358d69176a21ecb5738ddabcb09317c1}{%
-           family={Ponto},
-           familyi={P\bibinitperiod},
-           given={Kevin},
-           giveni={K\bibinitperiod}}}%
-        {{uniquename=0,hash=700f7071d5362009794efbe1ef785888}{%
-           family={Doerr},
-           familyi={D\bibinitperiod},
-           given={Kai},
-           giveni={K\bibinitperiod}}}%
-        {{uniquename=0,hash=a1d3fcd985933bbd8e644a82dcd77b4f}{%
-           family={Wypych},
-           familyi={W\bibinitperiod},
-           given={Tom},
-           giveni={T\bibinitperiod}}}%
-        {{uniquename=0,hash=67a86bee46bd90b271c21bc5d46fb0e8}{%
-           family={Kooker},
-           familyi={K\bibinitperiod},
-           given={John},
-           giveni={J\bibinitperiod}}}%
-        {{uniquename=0,hash=9d499d33171c7c7fc94e1498bd59d4bd}{%
-           family={Kuester},
-           familyi={K\bibinitperiod},
-           given={Falko},
-           giveni={F\bibinitperiod}}}%
-      }
-      \strng{namehash}{42d4ab3e15d9ef813d0275a84722feac}
-      \strng{fullhash}{11dc2546b3f4708fb8e89fc1801575ff}
-      \strng{authornamehash}{42d4ab3e15d9ef813d0275a84722feac}
-      \strng{authorfullhash}{11dc2546b3f4708fb8e89fc1801575ff}
-      \field{sortinit}{P}
-      \field{sortinithash}{24100cef455d7974167575052c29146e}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0167-739X}
-      \field{journaltitle}{Future Generation Computer Systems}
-      \field{number}{6}
-      \field{title}{CGLXTouch: A multi-user multi-touch approach for ultra-high-resolution collaborative workspaces}
-      \field{volume}{27}
-      \field{year}{2011}
-      \field{pages}{649\bibrangedash 656}
-      \range{pages}{8}
-    \endentry
-    \entry{MicrosoftArtikel}{online}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=6f78669dbf891472135f01863417c268}{%
-           family={Süster\bibnamedelima Volquardsen},
-           familyi={S\bibinitperiod\bibinitdelim V\bibinitperiod},
-           given={Anna},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{6f78669dbf891472135f01863417c268}
-      \strng{fullhash}{6f78669dbf891472135f01863417c268}
-      \strng{authornamehash}{6f78669dbf891472135f01863417c268}
-      \strng{authorfullhash}{6f78669dbf891472135f01863417c268}
-      \field{sortinit}{S}
-      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{15.05.2017, 19:25}
-      \field{title}{Zu Besuch im Smart Workplace, der neuen Arbeitswelt von Microsoft}
-      \field{year}{2017}
-      \verb{url}
-      \verb https://www.dearwork.de/single-post/2016/10/21/Zu-Besuch-im-Smart-Workspace-von-Microsoft
-      \endverb
-    \endentry
-    \entry{ibm}{online}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=da993bee17d317934dc62bfb571ea8b5}{%
-           family={Tholeti},
-           familyi={T\bibinitperiod},
-           given={Bhanu\bibnamedelima P.},
-           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-      }
-      \strng{namehash}{da993bee17d317934dc62bfb571ea8b5}
-      \strng{fullhash}{da993bee17d317934dc62bfb571ea8b5}
-      \strng{authornamehash}{da993bee17d317934dc62bfb571ea8b5}
-      \strng{authorfullhash}{da993bee17d317934dc62bfb571ea8b5}
-      \field{sortinit}{T}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{08.06.2017, 23:05}
-      \field{title}{Learn about hypervisors, system virtualization, and how it works in a cloud environment}
-      \field{year}{2011}
-      \verb{url}
-      \verb https://www.ibm.com/developerworks/cloud/library/cl-hypervisorcompare/
-      \endverb
-    \endentry
-    \entry{SpecialIssue}{article}{}
-      \name{author}{2}{}{%
-        {{uniquename=0,hash=fef783d275cb5eb05abc27fb963b248d}{%
-           family={Vasilakos},
-           familyi={V\bibinitperiod}}}%
-        {{uniquename=0,hash=904a0b4737724ecebd787c18245c0672}{%
-           family={Athanasios},
-           familyi={A\bibinitperiod},
-           given={V.},
-           giveni={V\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{3e30a52b1c43490025eb62fecbe8007a}
-      \strng{fullhash}{3e30a52b1c43490025eb62fecbe8007a}
-      \strng{authornamehash}{3e30a52b1c43490025eb62fecbe8007a}
-      \strng{authorfullhash}{3e30a52b1c43490025eb62fecbe8007a}
-      \field{sortinit}{V}
-      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Information Sciences}
-      \field{title}{Special Issue: Ambient Intelligence}
-      \field{volume}{178}
-      \field{year}{2008}
-      \field{pages}{585\bibrangedash 587}
-      \range{pages}{3}
-    \endentry
-    \entry{CompWoche}{online}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=5ae01de369b5adc7e54561b1e6097fa4}{%
-           family={Vito\bibnamedelimb Lo\bibnamedelima Verde},
-           familyi={V\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim V\bibinitperiod},
-           given={Giuseppe},
-           giveni={G\bibinitperiod}}}%
-      }
-      \strng{namehash}{5ae01de369b5adc7e54561b1e6097fa4}
-      \strng{fullhash}{5ae01de369b5adc7e54561b1e6097fa4}
-      \strng{authornamehash}{5ae01de369b5adc7e54561b1e6097fa4}
-      \strng{authorfullhash}{5ae01de369b5adc7e54561b1e6097fa4}
-      \field{sortinit}{V}
-      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{30.05.2017, 22:12}
-      \field{title}{Was bringt Unified Communication \& Collaboration?}
-      \field{year}{2017}
-      \verb{url}
-      \verb https://www.computerwoche.de/a/was-bringt-unified-communication-und-collaboration,3329610
-      \endverb
-    \endentry
-  \endsortlist
-\endrefsection
+  \entry{InformatikSpektrum}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BC}{%
+         family={Baun},
+         familyi={B\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kunze},
+         familyi={K\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LT}{%
+         family={Ludwig},
+         familyi={L\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{Springer Berlin Heidelberg}}%
+    }
+    \strng{namehash}{BC+1}
+    \strng{fullhash}{BCKMLT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{3}
+    \field{pages}{197–205}
+    \field{title}{Servervirtualisierung}
+    \field{volume}{32}
+    \field{journaltitle}{Informatik-Spektrum}
+    \field{year}{2009}
+  \endentry
+
+  \entry{CGLX}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DKU}{%
+         family={Doerr},
+         familyi={D\bibinitperiod},
+         given={K.\bibnamedelima U.},
+         giveni={K\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+      {{hash=KF}{%
+         family={Kuester},
+         familyi={K\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DKUKF1}
+    \strng{fullhash}{DKUKF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{issn}{1077-2626}
+    \field{number}{3}
+    \field{pages}{320\bibrangedash 332}
+    \field{title}{CGLX: A Scalable, High-Performance Visualization Framework
+  for Networked Display Environments}
+    \field{volume}{17}
+    \field{journaltitle}{IEEE Transactions on Visualization and Computer
+  Graphics}
+    \field{year}{2011}
+  \endentry
+
+  \entry{istag}{book}{}
+    \name{author}{5}{}{%
+      {{hash=DK}{%
+         family={Ducatel},
+         familyi={D\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bogdanowicz},
+         familyi={B\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SF}{%
+         family={Scapolo},
+         familyi={S\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Leijten},
+         familyi={L\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BJC}{%
+         family={Burgelman},
+         familyi={B\bibinitperiod},
+         given={J-C.},
+         giveni={J\bibinitperiod-C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{Ohne Herausgeber}}%
+    }
+    \strng{namehash}{DK+1}
+    \strng{fullhash}{DKBMSFLJBJC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{Scenarios for Ambient Intelligence in 2010}
+    \field{year}{2001}
+  \endentry
+
+  \entry{efm}{online}{}
+    \name{author}{1}{}{%
+      {{hash=e}{%
+         family={{eFM S.p.A.}},
+         familyi={e\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{e1}
+    \strng{fullhash}{e1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{note}{28.05.2017, 19:41}
+    \field{title}{4 levers for a smart workplace}
+    \verb{url}
+    \verb http://www.efmnet.it/index.php/news/il-56-delle-aziende-adottano-lo-s
+    \verb mart-working-per-incrementare-la-produttivita/?lang=en
+    \endverb
+    \field{year}{2017}
+  \endentry
+
+  \entry{MCC}{article}{}
+    \name{author}{3}{}{%
+      {{hash=FN}{%
+         family={Fernando},
+         familyi={F\bibinitperiod},
+         given={Niroshinie},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=LSW}{%
+         family={Loke},
+         familyi={L\bibinitperiod},
+         given={Seng\bibnamedelima W.},
+         giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=RW}{%
+         family={Rahayu},
+         familyi={R\bibinitperiod},
+         given={Wenny},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FN+1}
+    \strng{fullhash}{FNLSWRW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{issn}{0167-739X}
+    \field{number}{1}
+    \field{pages}{84\bibrangedash 106}
+    \field{title}{Mobile cloud computing: A survey}
+    \field{volume}{29}
+    \field{journaltitle}{Future Generation Computer Systems}
+    \field{year}{2013}
+  \endentry
+
+  \entry{SCmagazineUK}{online}{}
+    \name{author}{1}{}{%
+      {{hash=FM}{%
+         family={Furness},
+         familyi={F\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FM1}
+    \strng{fullhash}{FM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{note}{30.05.2017, 21:59}
+    \field{title}{The four cornerstones of a smart workplace}
+    \verb{url}
+    \verb https://www.scmagazineuk.com/the-four-cornerstones-of-a-smart-workpla
+    \verb ce/article/531507/
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{iotagenda}{online}{}
+    \name{author}{1}{}{%
+      {{hash=HK}{%
+         family={Hedayat},
+         familyi={H\bibinitperiod},
+         given={Kaynam},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HK1}
+    \strng{fullhash}{HK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{note}{28.05.2017, 18:23}
+    \field{title}{The promise of the smart workplace and why it's ready to
+  deliver}
+    \verb{url}
+    \verb http://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/The-prom
+    \verb ise-of-the-smart-workplace-and-why-its-ready-to-deliver
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{amiblabla}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KHN}{%
+         family={Koivo},
+         familyi={K\bibinitperiod},
+         given={Heikki\bibnamedelima N.},
+         giveni={H\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{KHN1}
+    \strng{fullhash}{KHN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2004}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{16}
+    \field{pages}{9\bibrangedash 11}
+    \field{title}{Soft Computing in Ambient Intelligence}
+    \field{volume}{37}
+    \field{journaltitle}{IFAC Proceedings Volumes}
+    \field{year}{2004}
+  \endentry
+
+  \entry{wearable1}{article}{}
+    \name{author}{5}{}{%
+      {{hash=LJ}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Jiwei},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=PZ}{%
+         family={Peng},
+         familyi={P\bibinitperiod},
+         given={Zhe},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Gao},
+         familyi={G\bibinitperiod},
+         given={Shang},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=XB}{%
+         family={Xiao},
+         familyi={X\bibinitperiod},
+         given={Bin},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=CH}{%
+         family={Chan},
+         familyi={C\bibinitperiod},
+         given={Henry},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LJ+1}
+    \strng{fullhash}{LJPZGSXBCH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{issn}{0140-3664}
+    \field{number}{1}
+    \field{pages}{33\bibrangedash 43}
+    \field{title}{Smartphone-assisted energy efficient data communication for
+  wearable devices}
+    \field{volume}{105}
+    \field{journaltitle}{Computer Communications}
+    \field{year}{2017}
+  \endentry
+
+  \entry{MCC2}{article}{}
+    \name{author}{3}{}{%
+      {{hash=MS}{%
+         family={Mathews},
+         familyi={M\bibinitperiod},
+         given={Sam},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Sundhari},
+         familyi={S\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=VSN}{%
+         family={Vijaya\bibnamedelima Shanthi},
+         familyi={V\bibinitperiod\bibinitdelim S\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MS+1}
+    \strng{fullhash}{MSSAVSN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{issn}{2278-8727}
+    \field{number}{4}
+    \field{pages}{24\bibrangedash 33}
+    \field{title}{Cloud-Based Impact for Mobile and Pervasive Environments: A
+  Survey}
+    \field{volume}{15}
+    \field{journaltitle}{IOSR Journal of Computer Engineering}
+    \field{year}{2013}
+  \endentry
+
+  \entry{leseprobe}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MP}{%
+         family={Mikulecky},
+         familyi={M\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{MP1}
+    \strng{fullhash}{MP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{booktitle}{Lecture Notes in Computer Science}
+    \field{pages}{401\bibrangedash 410}
+    \field{title}{User Adaptivity in Smart Workplaces. In: Pan JS., Chen SM.,
+  Nguyen N.T. (eds) Intelligent Information and Database Systems. ACIIDS 2012}
+    \list{location}{1}{%
+      {Berlin}%
+    }
+    \field{year}{2012}
+  \endentry
+
+  \entry{mittelstand}{online}{}
+    \name{author}{1}{}{%
+      {{hash=ND}{%
+         family={Neumann},
+         familyi={N\bibinitperiod},
+         given={Detlev},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ND1}
+    \strng{fullhash}{ND1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{note}{31.05.2017, 20:36}
+    \field{title}{Internet der Dinge: Eine kurze Definition mit 4 Beispielen}
+    \verb{url}
+    \verb https://digitaler-mittelstand.de/trends/ratgeber/internet-der-dinge-e
+    \verb ine-kurze-definition-mit-4-beispielen-20287
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{nextchange}{online}{}
+    \name{author}{1}{}{%
+      {{hash=n}{%
+         family={{nextchange Development UG}},
+         familyi={n\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{n1}
+    \strng{fullhash}{n1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{note}{28.05.2017, 18:50}
+    \field{title}{Vortrag: Smart Workplace im Unternehmen der Zukunft –
+  Arbeitswelt 4.0}
+    \verb{url}
+    \verb http://www.next-change.com/nextchange-wissen/item/smart-workplace-im-
+    \verb unternehmen-der-zukunft-\%E2\%80\%93-arbeitswelt-4-0
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{Table}{article}{}
+    \name{author}{5}{}{%
+      {{hash=PK}{%
+         family={Ponto},
+         familyi={P\bibinitperiod},
+         given={Kevin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=DK}{%
+         family={Doerr},
+         familyi={D\bibinitperiod},
+         given={Kai},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=WT}{%
+         family={Wypych},
+         familyi={W\bibinitperiod},
+         given={Tom},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=KJ}{%
+         family={Kooker},
+         familyi={K\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KF}{%
+         family={Kuester},
+         familyi={K\bibinitperiod},
+         given={Falko},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PK+1}
+    \strng{fullhash}{PKDKWTKJKF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{issn}{0167-739X}
+    \field{number}{6}
+    \field{pages}{649 \bibrangedash  656}
+    \field{title}{CGLXTouch: A multi-user multi-touch approach for
+  ultra-high-resolution collaborative workspaces}
+    \field{volume}{27}
+    \field{journaltitle}{Future Generation Computer Systems}
+    \field{year}{2011}
+  \endentry
+
+  \entry{MicrosoftArtikel}{online}{}
+    \name{author}{1}{}{%
+      {{hash=SVA}{%
+         family={Süster\bibnamedelima Volquardsen},
+         familyi={S\bibinitperiod\bibinitdelim V\bibinitperiod},
+         given={Anna},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SVA1}
+    \strng{fullhash}{SVA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{15.05.2017, 19:25}
+    \field{title}{Zu Besuch im Smart Workplace, der neuen Arbeitswelt von
+  Microsoft}
+    \verb{url}
+    \verb https://www.dearwork.de/single-post/2016/10/21/Zu-Besuch-im-Smart-Wor
+    \verb kspace-von-Microsoft
+    \endverb
+    \field{year}{2017}
+  \endentry
+
+  \entry{wearable2}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SJW}{%
+         family={Sung},
+         familyi={S\bibinitperiod},
+         given={Jung-Woong},
+         giveni={J\bibinitperiod-W\bibinitperiod},
+      }}%
+      {{hash=HSJ}{%
+         family={Han},
+         familyi={H\bibinitperiod},
+         given={Seung-Jae},
+         giveni={S\bibinitperiod-J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJWHSJ1}
+    \strng{fullhash}{SJWHSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{issn}{1389-1286}
+    \field{number}{1}
+    \field{pages}{76\bibrangedash 88}
+    \field{title}{Data bundling for energy efficient communication of wearable
+  devices}
+    \field{volume}{121}
+    \field{journaltitle}{Computer Networks}
+    \field{year}{2017}
+  \endentry
+
+  \entry{ibm}{online}{}
+    \name{author}{1}{}{%
+      {{hash=TBP}{%
+         family={Tholeti},
+         familyi={T\bibinitperiod},
+         given={Bhanu\bibnamedelima P.},
+         giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TBP1}
+    \strng{fullhash}{TBP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{note}{08.06.2017, 23:05}
+    \field{title}{Learn about hypervisors, system virtualization, and how it
+  works in a cloud environment}
+    \verb{url}
+    \verb https://www.ibm.com/developerworks/cloud/library/cl-hypervisorcompare
+    \verb /
+    \endverb
+    \field{year}{2011}
+  \endentry
+
+  \entry{SpecialIssue}{article}{}
+    \name{author}{2}{}{%
+      {{hash=V}{%
+         family={Vasilakos},
+         familyi={V\bibinitperiod},
+      }}%
+      {{hash=AV}{%
+         family={Athanasios},
+         familyi={A\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{VAV1}
+    \strng{fullhash}{VAV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{number}{3}
+    \field{pages}{585\bibrangedash 587}
+    \field{title}{Special Issue: Ambient Intelligence}
+    \field{volume}{178}
+    \field{journaltitle}{Information Sciences}
+    \field{year}{2008}
+  \endentry
+
+  \entry{CompWoche}{online}{}
+    \name{author}{1}{}{%
+      {{hash=VLVG}{%
+         family={Vito Lo\bibnamedelima Verde},
+         familyi={V\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim
+  V\bibinitperiod},
+         given={Giuseppe},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VLVG1}
+    \strng{fullhash}{VLVG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{note}{30.05.2017, 22:12}
+    \field{title}{Was bringt Unified Communication \& Collaboration?}
+    \verb{url}
+    \verb https://www.computerwoche.de/a/was-bringt-unified-communication-und-c
+    \verb ollaboration,3329610
+    \endverb
+    \field{year}{2017}
+  \endentry
+
+  \entry{weiser}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WM}{%
+         family={Weiser},
+         familyi={W\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{WM1}
+    \strng{fullhash}{WM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1993}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{10}
+    \field{pages}{71\bibrangedash 72}
+    \field{title}{Hot topics-ubiquitous computing}
+    \field{volume}{26}
+    \field{journaltitle}{Computer}
+    \field{year}{1993}
+  \endentry
+\endsortlist
 \endinput
-

@@ -65,15 +65,15 @@
 
 % Biblatex
 \usepackage[
-backend=biber,
+backend=bibtex,
 style=numeric,
 citestyle=authoryear-ibid,
+bibstyle=authoryear,
+ibidpage=true, %siehe Doku
+pagetracker=false, %ebd
 url=false,
 isbn=false,
 notetype=footonly,
-ibidpage=true, %siehe Doku
-ibidtracker=context,
-pagetracker=false, %ebd
 hyperref=false,
 sortlocale=de]{biblatex}
 
@@ -233,10 +233,13 @@ sortlocale=de]{biblatex}
 % Dazu die Zeile (\printbibliography) auskommentieren und folgenden code verwenden:
 
 \printbibheading
-\printbibliography[type=article,heading=subbibliography,title={Artikel}]
+\printbibliography[type=article,heading=subbibliography,title={Zeitschriften}]
 \printbibliography[type=book,heading=subbibliography,title={Bücher}]
 \printbibliography[type=patent,heading=subbibliography,title={Patente}]
-\printbibliography[type=online,heading=subbibliography,title={Webseiten}]
+\printbibliography[type=online,heading=subbibliography,title={Internet-Quellen}]
+
+\newpage
+\printbibliography[type=legislation,heading=bibliography,title={Rechtsquellenverzeichnis}]
 
 \input{kapitel/anhang/erklaerung}
 \end{document}

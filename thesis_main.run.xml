@@ -44,7 +44,8 @@
   <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>thesis_main.bcf</file>
+      <file>thesis_main.aux</file>
+      <file>thesis_main-blx.bib</file>
     </provides>
     <requires type="dynamic">
       <file>thesis_main.bbl</file>
@@ -52,8 +53,9 @@
     <requires type="static">
       <file>blx-dm.def</file>
       <file>blx-compat.def</file>
+      <file>blx-bibtex.def</file>
       <file>biblatex.def</file>
-      <file>numeric.bbx</file>
+      <file>authoryear.bbx</file>
       <file>standard.bbx</file>
       <file>authoryear-ibid.cbx</file>
       <file>biblatex.cfg</file>
@@ -62,13 +64,14 @@
     </requires>
   </internal>
   <external package="biblatex" priority="5" active="0">
-    <generic>biber</generic>
+    <generic>bibtex</generic>
     <cmdline>
-      <binary>biber</binary>
+      <binary>bibtex</binary>
+      <option>-min-crossrefs 2</option>
       <infile>thesis_main</infile>
     </cmdline>
     <input>
-      <file>thesis_main.bcf</file>
+      <file>thesis_main.aux</file>
     </input>
     <output>
       <file>thesis_main.bbl</file>
@@ -77,10 +80,14 @@
       <file>thesis_main.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>thesis_main.bcf</file>
+      <file>thesis_main.aux</file>
+      <file>thesis_main-blx.bib</file>
     </requires>
     <requires type="editable">
       <file>literatur/literatur.bib</file>
+    </requires>
+    <requires type="static">
+      <file>biblatex.bst</file>
     </requires>
   </external>
 </requests>

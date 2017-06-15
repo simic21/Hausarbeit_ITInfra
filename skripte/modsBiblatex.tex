@@ -62,7 +62,8 @@ bibwarn=true, % Warnung bei fehlerhafter bib-Datei
 %% Definiert @Book Eintrag
 \DeclareBibliographyDriver{book}{%
   \printnames{author}%
-  \newunit\addcolon\space
+  \setunit*{\space (}%
+  \printfield{year}\setunit*{):\space}%
   \printfield{title}%
   \setunit*{,\space}%
   \printfield{edition}%
@@ -84,23 +85,36 @@ bibwarn=true, % Warnung bei fehlerhafter bib-Datei
   \setunit*{,\space}%
   %\newunit\newblock
   \printfield{url}%
-  \setunit*{,\space Erscheinungsjahr:\space}%
-  \printfield{year}%
-  \setunit*{,\space Aufruf am:\space}%
+  \setunit*{,\space}%
   \printfield{note}%
   \finentry}
   
 %% Definiert @Article Eintrag
 \DeclareBibliographyDriver{article}{%
   \printnames{author}%
-  \newunit\newblockpunct
+  \setunit*{\space (}%
+  \printfield{year}\setunit*{):\space}%
+  \newblockpunct
   \printfield{title}%
   \setunit*{.\space In:\space}%
   %\newunit\newblock
   \usebibmacro{journal}%
-  \setunit*{\space (}%
-  \printfield{year}\newunit{)}%
+  \setunit*{,\space}%
+  \printfield{volume}\newunit{ Jg.}%
+  \setunit*{,\space Heft Nr.\space}%
+  \printfield{number}%
+  \setunit*{,\space}%
+  \printfield{pages}%
   \finentry}  
+  
+\DeclareBibliographyDriver{legislation}{%
+  \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \usebibmacro{title}%
+  \setunit{\space}%
+  \printfield{note}%
+  \usebibmacro{pageref}%
+  \usebibmacro{finentry}}
 
 %Doppelpunkt nach dem letzten Autor
 \renewcommand*{\labelnamepunct}{\addcolon\addspace }
