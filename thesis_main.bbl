@@ -17,6 +17,20 @@
 \endgroup
 
 \sortlist[entry]{nyt/global/}
+  \entry{BildschArbV}{legislation}{}
+    \field{shorthand}{BildschArbV}
+    \field{label}{BildschArbV}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1996}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{note}{{vom 4. Dezember 1996 (BGBl. I S. 1841). Zuletzt geändert
+  durch Artikel 437 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407)}}
+    \field{title}{{Verordnung über Sicherheit und Gesundheitsschutz bei der
+  Arbeit an Bildschirmgeräten (Bildschirmarbeitsverordnung - BildschArbV)}}
+    \field{year}{1996}
+  \endentry
+
   \entry{MOVE}{article}{}
     \name{author}{2}{}{%
       {{hash=BY}{%
